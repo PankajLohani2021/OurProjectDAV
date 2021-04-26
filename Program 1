@@ -1,0 +1,23 @@
+#Program for Addition , Subtraction , Multiplication 
+, Division of the two numbers :-
+
+print ()
+
+A = int ( input ( " Enter the first no :- " ))
+B = int ( input ( " Enter the Second no. :- " ))
+
+Sum = A + B
+Sub = A - B
+Mult = A * B
+Div = A / B
+IntDiv = A // B
+
+
+print ( " The Sum of two numbers is " , Sum )
+print ( " The Subtraction of two numbers is " , Sub )
+print ( " The Multiplication of two numbers is " , Mult)
+print ( " The Division of two numbers is " , Div )
+print ( " The Integer Divisionof two numbers is " , IntDiv )
+
+
+print ()
