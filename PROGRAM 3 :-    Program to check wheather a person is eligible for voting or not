@@ -1,0 +1,11 @@
+a = input ( " Enter your name :- " )
+b = int ( input ( " Enter your age :- " ))
+
+print ()
+
+if b>=21:
+ print ( " You are eligible for voting " )
+else :
+ print ( " You are not eligible for voting " )
+ 
+ print ()
